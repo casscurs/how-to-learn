@@ -1,0 +1,4 @@
+/* Микс для выноса внешних отступов за блок */
+.description__two-columns {
+    margin: 100px auto 0 auto;
+  }

@@ -1,0 +1,4 @@
+/* Микс для выноса внешних отступов за блок */
+.content__video {
+    margin: 40px auto 0 auto;
+  }
